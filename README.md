@@ -21,6 +21,7 @@ Detail of broken links in the doc can be found in the build logs. Select a build
 
 You can build the documentation locally on your computer to preview changes before committing them.
 
+
 ### Prerequisites
 
 Ensure Python 3.8+ is installed on your system. Install the required dependencies from the root of the repository:
