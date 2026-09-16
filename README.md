@@ -8,6 +8,7 @@ To view documentation, visit <https://androidaps.readthedocs.io>.
 
 [![Deploy](https://github.com/openaps/AndroidAPSdocs/actions/workflows/deploy.yml/badge.svg)](https://github.com/openaps/AndroidAPSdocs/actions/workflows/deploy.yml) ![Deploy](https://readthedocs.org/projects/androidaps/badge/?version=latest)
 
+
 ### Build and Warnings
 
 The current build logs of the documentation can be found in [Github Actions](https://github.com/openaps/AndroidAPSdocs/actions/workflows/deploy.yml).  
